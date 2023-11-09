@@ -1,0 +1,26 @@
+{
+  "name": "organo-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardohdc/organo-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardohdc/organo-server/issues"
+  },
+  "homepage": "https://github.com/leonardohdc/organo-server#readme",
+  "dependencies": {
+    "axios": "^1.6.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "mongodb": "^6.2.0"
+  }
+}
